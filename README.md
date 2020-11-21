@@ -1,2 +1,2 @@
-# dhedge-gnosis-safe-app
+# gnosis-safe-app
  
